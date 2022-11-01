@@ -1,4 +1,4 @@
 # rest_api
-A basic NodeJS REST API (Policemen example)
+A basic NodeJS Express REST API (Policemen example)
 
 Preferably tested and used with Postman.
