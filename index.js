@@ -5,7 +5,7 @@ const app = express();
 app.use(bodyParser.json());
 
 let policemen = new Object();
-policemen["1"] = ["Ognjen", "Mitrovic", "064-611-5905"]
+policemen["1"] = ["Ognjen", "Mitrovic", "064-777-7755"]
 policemen["2"] = ["Mateja", "Markovic", "065-777-7777"]
 policemen["3"] = ["Tamara", "Petrovic", "064-888-8888"]
 policemen["4"] = ["Mladen", "Rankovic", "065-999-9999"]
